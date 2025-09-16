@@ -24,4 +24,5 @@ async def olamundo(interaction: discord.Interaction):
 
 
 
-await bot.start("MTQxNzE1NjEyMDAzMTc5MzI2NQ.GTsk9D.R3iJ2J38Aps2bpECMHOwHtW812G5KONJCuIYxQ")
+
+await bot.start("token do bot")
